@@ -1,4 +1,5 @@
-// what happens if modification is done on the GiHhub
+// what happens if modification is done on the GiHhub -> after the modification you have to do the pull request 
+// and have the new version on the harddrive 
 
 
 //files for branch two
