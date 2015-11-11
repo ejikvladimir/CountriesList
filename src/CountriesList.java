@@ -23,7 +23,7 @@ public class CountriesList {
 		countriesList[4] = "USA";
 		countriesList[5] = "Canada";
 		countriesList[6] = "USA";
-		countriesList[7] = "Canada";
+		countriesList[7] = "Canada"; // list of Countries
 		
 	
 		for (String country : countriesList){
